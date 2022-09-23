@@ -1,0 +1,21 @@
+div#img1{
+    text-align: center;
+}
+div#img2{
+    text-align: center;
+}
+body{
+    background-image:linear-gradient(to left, rgb(191, 191, 240),white) ;
+}
+header{
+    text-align: justify;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+
+section{
+    text-align: justify;
+    padding-left: 300px;
+    padding-right: 300px;
+}
